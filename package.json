@@ -39,6 +39,7 @@
     "nodemailer-sendgrid-transport": "^0.2.0",
     "pdfkit": "^0.13.0",
     "pug": "^3.0.2",
-    "sequelize": "^6.13.0"
+    "sequelize": "^6.13.0",
+    "stripe": "^8.202.0"
   }
 }
